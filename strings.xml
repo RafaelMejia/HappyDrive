@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyDrive</string>
+    <string name="facebook_app_id">2116763558550764</string>
+    <string name="fb_login_protocol_scheme">fb2116763558550764</string>
+</resources>
